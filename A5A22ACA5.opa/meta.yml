@@ -1,0 +1,22 @@
+id: A5A22ACA5
+title: 'Asaṅga: Abhidharmasamuccaya'
+type: translation
+pechas:
+- I10A14C90
+- I0401DDF5
+- IC866DCFD
+- IF7B2E74A
+source_metadata:
+  languages:
+  - sa
+  - zh
+  - bo
+  - en
+  datatype: PlainText
+  created_at: 2023-02-10 00:25:33.621966
+  last_modified_at: 2023-02-10 00:25:33.621979
+alignment_to_base:
+  I10A14C90/3967: '8103'
+  I0401DDF5/13EA: '8103'
+  IC866DCFD/4874: '8103'
+  IF7B2E74A/A15A: '8103'
